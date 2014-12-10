@@ -1,0 +1,132 @@
+ 1gleon your daily commute: a small smartphone and tablet together,  a 6-inch phone that merges features from both? Consumers once leaned toward the former, but many have lately changed their minds. o-called phablet has come a long way since Samsung out with the first Galaxy Note  2011, and now it's not uncommon to see several of them as you walk down the street. Nearly every manufacturer has at least one or two such devices in their lineup, so it's about time Google stepped in with some outsized hardware of its own.
+
+The company just launched the Nexus 6, a 6-inch phone made in collaboration Motorola that comes with a winning feature list and is just as glorious as the Moto X it shares a likeness with. Aside from being a strong handset in its own right, it's meant to be a blueprint to inspire Google's partners as they work on their own devices. It's not as affordable as Nexus phones from the past two years, but at $649 it's still less than most premium-grade flagships of similar size. With that in mind, let's find out if the Nexus 6 serves as an encouragement... or a disappointment.
+
+GALLERY|53 PHOTOS
+Nexus 6 review
+
+
+
+
+
++ See all 53
+86
+Google
+Nexus 6
+
+PROS
+
+Beautiful hardware
+Great performance
+High-res display
+Android Lollipop brings fresh design and features
+Reasonably priced for what it is
+CONS
+
+Battery life is average at best
+Not great for one-handed use 
+Camera stumbles with low-light shots
+SUMMARY
+The Nexus 6 is Google's first attempt at a phablet, and is the most premium Nexus we've seen to date. It's powerful, high-res and comes with the latest and greatest version of Android. But be warned that it's difficult to use with one hand, and its battery life is average at best. 
+HARDWARE
+
+
+The Nexus 6 is not only named for its nearly 6-inch screen size, but also its order in the series. It joins a prestigious lineup of devices Google has crafted as examples to its Android partners, each one acting as a physical manifestation of the company's mobile vision for the coming year. It only takes a quick look at the Nexus 6 to figure out what Google's focusing on this time around: phablets and premium quality. It's a jarring contrast to last year's Nexus 5, which fit the mold for an affordable, yet high-end phone; at $349, it was the best smartphone you could buy (it's still among the best, a full year later), whereas the Nexus 6, which starts at $649, comes with an even better spec sheet and looks much fancier and... well, more expensive. Both are good options, but you aren't going to be buying the new Nexus on a whim.
+
+Google's new phone doesn't look anything like its predecessors, but it has a rather uncanny resemblance to the Moto X. In fact, it looks almost exactly like a blown-up version of Motorola's flagship, with only a few exceptions. That's a good move on Google's part, because the X is beautifully designed and well-built. It didn't become a doppelganger by accident -- the N6 was built in collaboration with Motorola, and was announced just six weeks after the X debuted. It's fashioned with the same metal frame and curved (fingerprint-friendly) polycarbonate back, albeit without the vast array of customizable color options; no bamboo or wood, just dark blue and white for now.
+
+
+
+Another key difference between the X and the N6 is the dimple on the back. The former features a metallic ring that distractingly screams for your attention, while the latter uses a soft depression that's indented in the plastic back itself (like the original Moto X) in a way that doesn't interrupt the design. It could be argued that this point is rendered moot by the mammoth Nexus logo underneath, as well as Motorola's signature "M," but at least the dimple looks better.
+
+The front of the phone comes with stereo speakers, another improvement over the X; they remind me of HTC's BoomSound, and are just as loud as the audio on the One M8. Smart move, since large phones should come with stellar media experiences; if you have a big, Quad HD display, you don't want to ruin a good movie by having horrible audio.
+
+At 10.1mm thick, the Nexus 6 is thicker than the average phone, but it doesn't look or feel like it. That's because it's a curvaceous phone that starts out thick in the middle and tapers down to incredibly thin edges.Whereas the iPhone 6 Plus and Nokia Lumia 1520 have thin, rounded (and thus sharp) edges, the Nexus 6 comes with flat sides, providing a comfortable fit and feel because they aren't digging into my fingers every time I grab onto the device. A big phone like the Nexus is also going to be heavier than most: The N6 is 6.49 ounces (184g), more than the 6.07-ounce iPhone 6 Plus or Samsung's 6.21-ounce Galaxy Note 4. Yet for some reason -- perhaps the way that weight is distributed -- I've never given this stat a second thought. It's no lightweight, but the extra grams won't be a discouraging factor for most.
+
+
+
+I'm not going to knock Google for creating a large-screened phone, because there's a huge market for it. For every person that gives me a weird look for using one, there's another who pines for a larger screen to view more text, watch videos on Netflix and to look at pictures. Personally, I like big phones as long as I can use them efficiently in one-handed scenarios (I find myself in those situations a lot). And unfortunately, this is an area where the Nexus 6 suffers. Each time I used it with one hand it turned into an exercise in maintaining balance. The plastic is slick and I simply can't reach my thumb everywhere it needs to go without contorting my hands. If you buy the phone, go in with the expectation that you'll handle it with both paws most of the time.
+
+The screen isn't just big -- it's as high-definition as you can get these days, thanks to the Quad HD AMOLED panel. That's 2,560 x 1,440 pixels spread over the 5.96-inch display, which comes out to a pixel density of 493 ppi. It's technically not as dense as the Galaxy Note 4, which uses the same number of pixels on a smaller screen, but you'll be hard-pressed to notice a difference in quality between the two. As with the Note 4, it's a beautiful sight, but the improvement over 1080p isn't as significant as it would be on, say, a TV. As long as the higher resolution doesn't impair the battery life, I have no problem with that spec; if it involves a trade-off of power efficiency, however, it's not worth it. The display itself is a little on the saturated side, though not as heavy on the extra color as the Note 4. Then again, Samsung might go more overboard with the saturation, but it at least includes various display modes allowing you to adjust the color. Moving on, darks are just as dark, though the whites seem to have a warmer temperature and aren't as bright (though it's at least much better than the Nexus 5's LCD panel, which bleeds light like crazy). Viewing angles are good, and I can see it reasonably well in direct sunlight.
+
+It also comes with an ambient display mode, which is a similar concept to what you'll find on the Moto X. When you pick up the device off of a flat surface or whenever a new notification arrives, the display shows your notifications in a very dim white glow. This is a nice feature that lets you see what just showed up without having to activate the entire lockscreen each time the phone buzzes or beeps, which hopefully helps conserve battery life and makes it less distracting and more convenient for the user.
+
+Update: One area of the display I initially overlooked (thanks to Ron Amadeo at Ars Technica for finding it!) is its auto-brightness setting. When turned on and set to the lowest possible brightness, the display changes to a pinkish glow. By doing so, it effectively makes the screen one of the dimmest I've ever seen; this actually comes in incredibly handy when I'm trying to read something in a pitch dark room -- such as when I'm in bed. And obviously, if you don't care for the pink hue or need it a little brighter, you can easily adjust the settings.
+
+ANDROID 5.0
+
+
+
+You'll forgive me for leaving this section a tad shorter than normal. Continuing its history of releasing new firmware in tandem with new hardware, Google has introduced Android 5.0 Lollipop, building it into the Nexus 6 and the Nexus 9 tablet. Since we already spent some time with the Nexus 9, I was able to take a close look at the OS in my preview, so wander over there to get the full lowdown on what's new.
+
+In a nutshell, though, Lollipop comes with a fresh new look known as Material Design, which attempts to apply physical rules to a digital interface. It's clean, minimal and alive, thanks to a litany of animations that react to your touch. It seeks to eliminate as many distractions as possible so you can concentrate on the task at hand. Google accomplishes this in a couple ways: through actionable notifications that drop down from the top of the screen, and a do not disturb mode with imposable time limits and white lists. Lollipop also brings performance and battery life enhancements, as well as a Smart Lock feature that lets you bypass the lock screen as long as your Bluetooth device is nearby. It's definitely one of the biggest updates Android has ever seen. And I like it: It's fun to use and easy on the eyes.
+
+But despite Lollipop's fancy new design and useful features, its presence on the Nexus 6 highlights one of the update's few weaknesses: the one-handed experience. Unless your hands are much larger than mine (I believe I'm in the average category), the new Nexus is nigh impossible to operate without the assistance of a second set of phalanges; the curved back helps somewhat, but the slippery polycarbonate doesn't. You could argue that this is a problem with most large phones, and that it's just one of the compromises you'll have to make in exchange for a tablet-like experience. But several manufacturers have found ways to enhance one-handed use; the 5.7-inch Note 4, for instance, comes with extra menus that make the phone easier to operate when you only have one hand free. Stock Android on the Nexus 6 lacks these kinds of handy features. This is definitely something you'll need to overlook if you're interested in getting the latest and greatest Nexus.
+
+
+
+Lollipop also doesn't do much to take advantage of the additional space. Having a larger screen makes it so you can read more text at a time from a book or Chrome page, but the new update lacks features like split-screen mode and floating apps, which can be incredibly useful when you're trying to multitask. Additionally, none of Android's native apps come with extra panes when you turn the phone onto its side and use it in landscape mode. You can't even convert the home screen into landscape, which can be slightly annoying if you're trying to move from one app to another (at least Overview works this way, but that's only helpful if you're switching to an app or Chrome tab that you've recently used).
+
+Just like on the original Moto X, the Nexus 6 (and any Lollipop-supported device with the right hardware) comes with voice activation, allowing you to use "OK Google" as the voice trigger. However, you don't get the chance to make up your own phrase, as you can on the Moto X; it's unfortunate that Motorola didn't work with Google to incorporate the feature this time around. In general, too, the voice activation still needs a little more work on the N6 -- it didn't always hear my voice.
+
+Strangely, the double-tap-to-wake feature, which was shown off in early hands-on demos and prominently featured on the Nexus 9, is now nowhere to be seen. I've asked Google for comment, and a company rep simply responded that the feature is not included on the device right now. It seems odd that it got left out of the final product, as it would've made it a little easier to handle the phone with one hand.
+
+CAMERA
+
+
+
+The Nexus lineup is designed to express Google's hardware vision for Android manufacturers. Historically, however, we'd have to take its imaging "vision" with a grain of salt: The past few Nexus' cameras have been mediocre at best. Combine this tradition with the subpar shooters on Motorola's latest phones, and you'll understand why I didn't have high expectations for the Nexus 6's camera going into this review. Its 13-megapixel rear module means you'll at least get a higher resolution than the 8MP Nexus 5, and it also comes with optical image stabilization, a pleasant addition. It should also be better than its predecessor at taking low-light shots thanks to its f/2.0 aperture (a bump up from f/2.4 on the N5).
+
+If you've used the latest stock Android camera app, you'll feel at home on the N6. You can pull up a camera mode menu by swiping out from the left edge; this lets you choose among camera, video, panorama, lens blur and Photo Sphere (yep, it's still supported). Like Motorola's other phones, it's missing some manual options; you can change resolution and exposure, but not white balance, ISO, shutter speed or anything else. You can do a ton of tweaks after the fact, though it's best not to rely on that every time you take a cruddy shot. Also, you can still access the camera directly from the lock screen, as you've been able to do in previous versions of Android, with one difference: You have to swipe directly left from the camera icon in the bottom-right corner of the screen in order to activate it. (Same goes for the phone dialer, which requires swiping directly right.)
+
+GALLERY|85 PHOTOS
+Nexus 6 sample shots
+
+
+
+
+
++ See all 85
+I was pleasantly surprised at how well the Nexus 6 did at taking daylight shots. Google did a better job with the imaging experience overall, compared to the Nexus 5. Most of my images were well detailed and crisp. What it lacks in manual controls it makes up for in the default experience -- much like the iPhone experience, you can take a shot without worrying about how it's going to turn out. HDR mode is subtle yet effective, white balance is good and colors are a tad saturated in some situations but are kept within reason. I'd see blown-out highlights on occasion as well, but never was it so blatant that it completely ruined the photo.
+
+A camera with such a large aperture should bode well for nighttime shots, but unless you use the dual-LED flash to brighten up your subjects, you're not going to see much of anything. This comes as a bit of a surprise, especially since even the Nexus 5 did a better job of picking up light in dark settings (albeit with a lot of noise). If you're going to be taking a lot of pictures at night, this isn't going to work out for you. The camera also typically chooses a slower shutter time when light becomes scarce, so fast-moving kids and other objects can turn into the Blur. Taking pictures using HDR mode requires a bit of patience; it takes a few seconds to switch into HDR from regular mode, and once you fire off a shot, it takes an unusually long time to process. This can be frustrating when compared to many other devices capable of processing HDR in real-time, so you can even see what the photo will look like before you've even taken it. Not so here.
+
+(High-res samples will be available here shortly.)
+
+PERFORMANCE AND BATTERY LIFE
+
+
+
+The new Nexus comes with the best chipset you can get on any Android device right now: The Qualcomm Snapdragon 805. This is the same SoC found on the Samsung Galaxy Note 4, Note Edge and Motorola Droid Turbo (Moto Maxx), and comes with four 2.65GHz Krait 450 cores and a top-of-the-line Adreno 420 graphics processor. If you want the power without having to futz around with TouchWiz or availability restrictions, the Nexus 6 is going to take very good care of you.
+
+The N6 is among the most capable smartphones on the market, at least from a real-use perspective. (Some benchmarks don't agree, as you'll see below, but it's a mixed bag.) Sure, it doesn't come with 64-bit support, but this wasn't a problem for me; everything from the mundane tasks to the graphic-intensive games like NOVA 3, Modern Combat 5 and Asphalt 8 ran as smoothly as possible on a smartphone -- and for a phone that has such a large screen pushing a Quad HD resolution, that's never a sure thing. With the Nexus 6, that combination of power and display makes the gaming experience even better than it normally is on a flagship smartphone.
+
+NEXUS 6	MOTO X (2014)	SAMSUNG GALAXY NOTE 4
+Geekbench 3	3,286	2,986	2,746
+Vellamo 3.0 Multicore	1,479	2,093	1,808
+3DMark IS Unlimited	23,233	19,568	20,692
+SunSpider 1.0 (ms)	782	787	793
+GFXBench 3.0 Manhattan (fps)	18.7 off/11.9 on	11.9 off/12.8 on	18.8 off/11.1 on
+CF-Bench	34,968	39,018	43,324
+SunSpider: lower scores are better
+Of course, that combo may be great for gaming, but it's normally a death sentence for your beloved battery life. The N6's 3,220mAh cell is identical in size to the Note 4, but the Nexus is burdened with far greater expectations; it comes with stock Android (read: no TouchWiz) and makes use of Project Volta, Google's new effort to make Android more power efficient.
+
+But Project Volta needs some work. The Nexus 6 doesn't have terrible battery life, but it's definitely not as good as many similarly sized phones. I used the device extensively at Engadget Expand last weekend, and I was lucky if the phone got more than 13 or 14 hours. A battery of that size and supposed power efficiency should still have juice left over after a full day of heavy use, and the 6 just wasn't up to the task. Most days, I could only get around four hours of screen-on time. As you'd expect, moderate to light usage will get you through two days, but it's much more likely that you'll be taking advantage of the large screen for both normal smartphone use and tablet-like consumption as well, and it needs to get through a full day at minimum with that kind of use. Fortunately the Nexus 6 comes with Qualcomm's Quick Charging and Qi wireless charging, so you have more options to add more juice to your battery life faster and in more places.
+
+THE COMPETITION
+
+
+
+While the Nexus 5 was in a class all its own last fall, the same can't be said about the 6 -- not in price or size. The 32GB model costs $649 unlocked and 64GB is an extra $50 (both of which are a better deal storage-wise than the iPhones 6). That puts it in direct competition with most flagship devices currently on the market. To be fair, most big-screened devices -- anything larger than 5.5-inches -- sell for even more, which means the N6 is one of the best deals you'll find for a top-of-the-line smartphone of that size and quality. The Note 4, which is slightly smaller, but comes with 32GB internal storage, microSD support, a removable battery and an S Pen, is unlocked on Amazon for around $820. Additionally, the iPhone 6 Plus starts at $749 for 16GB ($849 for 64GB and $949 for 128GB).
+
+Those may be the most popular options, but there are less expensive large-screened devices: The Huawei Ascend Mate 2 is $300 and has a 6.1-inch 720p display, Snapdragon 400 chipset and much larger 4,050mAh battery. There's also the 5.5-inch LG G3, which has a Quad HD display, Snapdragon 801 and slightly smaller battery than the N6; it's now going for around $500 unlocked online. It's a tough market for big phones right now, and Google's new Nexus fits right in the middle of them all. For what it's worth, if you need something larger than the Note 4, the N6 is your best premium option.
+
+(Update: The Nexus 6 will be available on Google Play, Motorola's website and through US carriers like AT&T, T-Mobile, Sprint and Verizon, though carrier pricing differs slightly from Google's and Motorola's. Keep in mind that some carrier versions may come locked, so if you want to ensure that your model is unlocked, go through Google or Motorola instead. Inventory will likely be pretty limited at first, though, so you'll want to keep a close eye on those channels.)
+
+WRAP-UP
+
+
+
+In general, Google's first shot at a large-screened device (not to mention its first Nexus collaboration with Motorola) is a good one. The Nexus 6 comes with features that the Moto X should have had in the first place, including a powerful next-gen Snapdragon processor, improved camera, new version of Android and a premium design. Watching movies on the N6 is a treat, with loud, front-facing stereo speakers and a Quad HD display. And while the $649 price may seem high, it's actually lower than the Note 4, iPhone 6 Plus and other large phones with top-notch specs.
+
+What it lacks is a little more telling. Its mediocre battery life indicates that Google's Project Volta could use some TLC. Additionally, if you're buying the phone because it has a big screen and you want to use it as a phone/tablet hybrid, you're not only trading off a comfortable one-handed experience, but you're also doing so without features that take advantage of the extra real estate, like Multi Window or dual-pane mode for when the phone is in landscape. These may be small misses that likely won't affect your purchase decision, but they suggest Google still has room for improvem

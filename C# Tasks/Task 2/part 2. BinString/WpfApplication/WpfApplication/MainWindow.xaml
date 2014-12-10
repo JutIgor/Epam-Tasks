@@ -1,0 +1,14 @@
+﻿<Window x:Class="WpfApplication.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="220.627" Width="525">
+    <Grid>
+        <TextBox x:Name="InputTextBox" HorizontalAlignment="Left" Height="23" Margin="100,80,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="OutputTextBox" HorizontalAlignment="Left" Height="23" Margin="390,80,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Button Content="Convert!" HorizontalAlignment="Left" Margin="220,138,0,0" VerticalAlignment="Top" Width="85" Click="Button_Click"/>
+        <Label Content="Your number:" HorizontalAlignment="Left" Margin="10,80,0,0" VerticalAlignment="Top"/>
+        <Label Content="Binary image:" HorizontalAlignment="Left" Margin="300,80,0,0" VerticalAlignment="Top"/>
+        <GridSplitter HorizontalAlignment="Left" Height="100" Margin="260,20,0,0" VerticalAlignment="Top" Width="5"/>
+
+    </Grid>
+</Window>
