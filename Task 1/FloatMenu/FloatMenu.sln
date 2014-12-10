@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FloatWPF", "..\FloatWPF\FloatWPF\FloatWPF.csproj", "{7B749ED3-3A7F-45D4-84E1-826FD262F451}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FloatMenu", "FloatMenu\FloatMenu.csproj", "{B03ADBD1-258F-4D75-8FA2-D8BC72482760}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FloatFile", "..\FloatFile\FloatFile\FloatFile.csproj", "{84A3AA8E-A178-405A-A978-369982560AF8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FloatConsole", "..\FloatConsole\FloatConsole\FloatConsole.csproj", "{6B1BB745-8E38-48A1-ADE0-2799B2E950F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtractFloat", "..\ExtractFloat\ExtractFloat\ExtractFloat.csproj", "{30BBE46A-3DC0-4F22-8ACC-306F27F82690}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestFloat", "UnitTestFloat\UnitTestFloat.csproj", "{E82439DE-A53B-4198-9AC2-FC65C5A963CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7B749ED3-3A7F-45D4-84E1-826FD262F451}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B749ED3-3A7F-45D4-84E1-826FD262F451}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B749ED3-3A7F-45D4-84E1-826FD262F451}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B749ED3-3A7F-45D4-84E1-826FD262F451}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B03ADBD1-258F-4D75-8FA2-D8BC72482760}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B03ADBD1-258F-4D75-8FA2-D8BC72482760}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B03ADBD1-258F-4D75-8FA2-D8BC72482760}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B03ADBD1-258F-4D75-8FA2-D8BC72482760}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84A3AA8E-A178-405A-A978-369982560AF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84A3AA8E-A178-405A-A978-369982560AF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84A3AA8E-A178-405A-A978-369982560AF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84A3AA8E-A178-405A-A978-369982560AF8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B1BB745-8E38-48A1-ADE0-2799B2E950F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B1BB745-8E38-48A1-ADE0-2799B2E950F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B1BB745-8E38-48A1-ADE0-2799B2E950F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B1BB745-8E38-48A1-ADE0-2799B2E950F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30BBE46A-3DC0-4F22-8ACC-306F27F82690}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30BBE46A-3DC0-4F22-8ACC-306F27F82690}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30BBE46A-3DC0-4F22-8ACC-306F27F82690}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30BBE46A-3DC0-4F22-8ACC-306F27F82690}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E82439DE-A53B-4198-9AC2-FC65C5A963CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E82439DE-A53B-4198-9AC2-FC65C5A963CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E82439DE-A53B-4198-9AC2-FC65C5A963CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E82439DE-A53B-4198-9AC2-FC65C5A963CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

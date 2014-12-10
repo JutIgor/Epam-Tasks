@@ -1,0 +1,12 @@
+﻿<Window x:Class="FloatMenu.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Button x:Name="ConsoleButton" Content="Console" HorizontalAlignment="Left" Margin="50,160,0,0" VerticalAlignment="Top" Width="100" Height="50" Click="ConsoleButton_Click"/>
+        <Button x:Name="FileButton" Content="File" HorizontalAlignment="Left" Margin="200,160,0,0" VerticalAlignment="Top" Width="100" Height="50" Click="FileButton_Click"/>
+        <Button x:Name="WPFButton" Content="WPF" HorizontalAlignment="Left" Margin="350,160,0,0" VerticalAlignment="Top" Width="100" Height="50" Click="WPFButton_Click"/>
+        <TextBlock HorizontalAlignment="Left" Margin="150,60,0,0" TextWrapping="Wrap" Text="Choose the app" VerticalAlignment="Top" Height="50" Width="200" TextAlignment="Center" FontSize="24"/>
+
+    </Grid>
+</Window>
