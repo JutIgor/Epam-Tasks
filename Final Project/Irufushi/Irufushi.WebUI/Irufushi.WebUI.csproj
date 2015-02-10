@@ -326,6 +326,8 @@
     <Content Include="Views\User\ShowFriends.cshtml" />
     <Content Include="Views\User\ShowAllUsers.cshtml" />
     <Content Include="Views\User\Search.cshtml" />
+    <Content Include="Views\User\ShowDialogs.cshtml" />
+    <Content Include="Views\User\ShowMessages.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />

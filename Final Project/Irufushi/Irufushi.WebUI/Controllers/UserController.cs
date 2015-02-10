@@ -140,15 +140,57 @@ namespace Irufushi.WebUI.Controllers
         }
 
         [Authorize]
-        public ActionResult ShowMessages()
+        public ActionResult ShowDialogs()
         {
             MessageModel viewModel = new MessageModel
             {
-                inputMessages = _repository.GetMessages(WebSecurity.CurrentUserId, false),
-                outputMessages = _repository.GetMessages(WebSecurity.CurrentUserId, true)
+                Dialogs = _repository.GetDialogs(WebSecurity.CurrentUserId)
             };
 
             return View(viewModel);
         }
+
+        [Authorize]
+        public ActionResult ShowMessages(int? id)
+        {
+            MessageModel viewModel = new MessageModel
+            {
+                Messages = _repository.GetMessages(WebSecurity.CurrentUserId, (int)id)
+            };
+
+            return View(viewModel);
+        }
+
+        [Authorize]
+        [HttpPost]
+        public ActionResult ShowMessages(MessageModel model, int id)
+        {
+            Message message = new Message
+            {
+                SendDateTime = DateTime.Now,
+                SenderId = WebSecurity.CurrentUserId,
+                ReceiverId = id,
+                Content = model.NewMessage.Content
+            };
+            _repository.AddMessage(message);
+
+            return RedirectToAction("ShowMessages", "User", new { id = id });
+        }
+
+        //[Authorize]
+        //[HttpPost]
+        //public ActionResult SendMessage(MessageModel model, int id)
+        //{
+        //    Message message = new Message
+        //    {
+        //        SendDateTime = DateTime.Now,
+        //        SenderId = WebSecurity.CurrentUserId,
+        //        ReceiverId = id,
+        //        Content = model.NewMessage.Content
+        //    };
+        //    _repository.AddMessage(message);
+
+        //    return RedirectToAction("ShowMessages", "User");
+        //}
     }
 }

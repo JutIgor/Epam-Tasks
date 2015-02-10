@@ -262,23 +262,57 @@ namespace Irufushi.Domain.Concrete
             return users;
         }
 
-        public List<Message> GetMessages(int id, bool io)
+        public List<Message> GetMessages(int uId, int fId)
         {
-            List<Message> messages = new List<Message>();
-            UserProfile user = GetUser(id);
-
-            if(io)
-                foreach (var item in user.Senders)
-                {
-                    messages.Add(item);
-                }
-            else
-                foreach (var item in user.Receivers)
-                {
-                    messages.Add(item);
-                }
+            List<Message> messages = context.Messages
+                .Where(x => (x.ReceiverId == uId && x.SenderId == fId || x.SenderId == uId && x.ReceiverId == fId))
+                .OrderByDescending(x => x.SendDateTime).ToList();
 
             return messages;
+        }
+
+        public List<AboutUser> GetDialogs(int id)
+        {
+            var dialogsIn = context.Messages.Where(x => x.ReceiverId == id)
+                .OrderByDescending(x => x.SendDateTime);
+            var dialogsOut = context.Messages.Where(x => x.SenderId == id)
+                .OrderByDescending(x => x.SendDateTime);
+
+            List<int> users = new List<int>();
+
+            foreach (var item in dialogsIn)
+            {
+                users.Add(item.SenderId);
+            }
+            foreach (var item in dialogsOut)
+            {
+                users.Add(item.ReceiverId);
+            }
+
+            List<UserProfile> up = new List<UserProfile>();
+            List<AboutUser> about = new List<AboutUser>();
+
+            foreach (var item in users)
+            {
+                up.Add(GetUser(item));
+            }
+            up = up.Distinct().ToList();
+            foreach (var item in up)
+            {
+                about.Add(item.AboutUser);
+            }
+
+            return about;           
+        }
+
+        public void AddMessage(Message message)
+        {
+            if (message.Content == null && message.SenderId == 0
+                && message.ReceiverId == 0)
+                return;
+
+            context.Messages.Add(message);
+            context.SaveChanges();
         }
     }
 }

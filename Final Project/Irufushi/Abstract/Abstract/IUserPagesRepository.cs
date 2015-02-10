@@ -22,6 +22,10 @@ namespace Abstract.Abstract
         bool IsFriend(int idUser, int isFriend);
         List<UserProfile> SearchUsers(string firstName, string lastName,
             string country, string city);
-        List<Message> GetMessages(int id, bool io);
+        List<Message> GetMessages(int uId, int fId);
+
+
+        List<AboutUser> GetDialogs(int id);
+        void AddMessage(Message message);
     }
 }

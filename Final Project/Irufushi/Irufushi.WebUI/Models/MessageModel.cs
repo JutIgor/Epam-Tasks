@@ -8,7 +8,8 @@ namespace Irufushi.WebUI.Models
 {
     public class MessageModel
     {
-        public IEnumerable<Message> inputMessages { get; set; }
-        public IEnumerable<Message> outputMessages { get; set; }
+        public IEnumerable<Message> Messages { get; set; }
+        public IEnumerable<AboutUser> Dialogs { get; set; }
+        public Message NewMessage { get; set; }
     }
 }

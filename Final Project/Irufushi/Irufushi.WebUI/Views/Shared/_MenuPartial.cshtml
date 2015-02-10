@@ -12,6 +12,7 @@
             <li>@Html.ActionLink("Friends", "ShowFriends", "User", new { id = @WebSecurity.CurrentUserId }, null)</li>
             <li>@Html.ActionLink("People", "ShowAllUsers", "User", new { id = @WebSecurity.CurrentUserId }, null)</li>
             <li>@Html.ActionLink("Search", "Search", "User", new { id = @WebSecurity.CurrentUserId }, null)</li>
+            <li>@Html.ActionLink("Dialogs", "ShowDialogs", "User", new { id = @WebSecurity.CurrentUserId }, null)</li>
         </ul>
     </div><!--/.nav-collapse -->
 }

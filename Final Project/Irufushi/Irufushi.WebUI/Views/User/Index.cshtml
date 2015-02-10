@@ -13,11 +13,10 @@
         @Html.ActionLink("Delete from friends", "DeleteFriend", "User", 
         new { id = this.ViewContext.RouteData.Values["id"] }, null)
     }
+    
+    @Html.ActionLink("Send Message", "ShowMessages", "User", 
+        new { id = this.ViewContext.RouteData.Values["id"] }, null)
 }
-
-
-
-
 
 <fieldset class="form-horizontal margin-login col-sm-offset-3 col-sm-10" id="UserInputs">
     <div class="form-group form-inline">
