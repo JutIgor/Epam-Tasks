@@ -20,7 +20,8 @@ namespace Abstract.Abstract
         void DeleteFriend(FriendShip friendship);
         List<UserProfile> GetFriends(int id);
         bool IsFriend(int idUser, int isFriend);
-        IQueryable<UserProfile> SearchUsersFName(string firstName, string lastName,
-            string country, string city, string skype);
+        List<UserProfile> SearchUsers(string firstName, string lastName,
+            string country, string city);
+        List<Message> GetMessages(int id, bool io);
     }
 }

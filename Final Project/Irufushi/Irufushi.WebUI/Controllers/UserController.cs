@@ -117,5 +117,38 @@ namespace Irufushi.WebUI.Controllers
 
             return View(viewModel);
         }
+
+        [Authorize]
+        public ActionResult Search()
+        {
+            SearchModel model = new SearchModel
+            {
+                Users = _repository.SearchUsers(null, null, null, null)
+            };
+
+            return View(model);
+        }
+
+        [Authorize]
+        [HttpPost]
+        public ActionResult Search(SearchModel model)
+        {
+            model.Users = _repository.SearchUsers(model.FirstName, model.LastName, 
+                model.Country, model.City);
+
+            return View(model);
+        }
+
+        [Authorize]
+        public ActionResult ShowMessages()
+        {
+            MessageModel viewModel = new MessageModel
+            {
+                inputMessages = _repository.GetMessages(WebSecurity.CurrentUserId, false),
+                outputMessages = _repository.GetMessages(WebSecurity.CurrentUserId, true)
+            };
+
+            return View(viewModel);
+        }
     }
 }

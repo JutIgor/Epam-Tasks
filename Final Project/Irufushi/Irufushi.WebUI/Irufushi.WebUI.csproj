@@ -198,6 +198,8 @@
     </Compile>
     <Compile Include="Infrastructure\NinjectControllerFactory.cs" />
     <Compile Include="Models\AccountModels.cs" />
+    <Compile Include="Models\MessageModel.cs" />
+    <Compile Include="Models\SearchModel.cs" />
     <Compile Include="Models\UserModel.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -323,6 +325,7 @@
     <Content Include="Views\Shared\_MenuPartial.cshtml" />
     <Content Include="Views\User\ShowFriends.cshtml" />
     <Content Include="Views\User\ShowAllUsers.cshtml" />
+    <Content Include="Views\User\Search.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />

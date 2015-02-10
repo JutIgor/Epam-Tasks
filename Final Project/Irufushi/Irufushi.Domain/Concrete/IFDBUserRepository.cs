@@ -201,10 +201,84 @@ namespace Irufushi.Domain.Concrete
             return false;
         }
 
-        IQueryable<UserProfile> SearchUsers(string firstName, string lastName,
-            string country, string city, string skype)
+        public List<UserProfile> SearchUsers(string firstName, string lastName,
+            string country, string city)
         {
+            var req = false;
+            var and = false;
+            string searchRequest = "Select UserId from UserProfile";
 
+            if (firstName != null || lastName != null)
+            {
+                searchRequest += " INNER JOIN AboutUsers ON UserProfile.UserId = AboutUsers.Id";
+                req = true;
+                
+            }
+            if (country != null || city != null)
+            {
+                searchRequest += " INNER JOIN Locations ON UserProfile.UserId = Locations.Id";
+                req = true;
+            }
+            if (req)
+            {
+                searchRequest += " where ";
+            }
+                 
+            if (firstName != null)
+            {
+                var searchPattern = "AboutUsers.FirstName LIKE '%" + firstName + "%'";
+                searchRequest += searchPattern;
+                and = true;
+            }
+            if (lastName != null)
+            {
+                if (and) searchRequest += " and ";
+                var searchPattern = "AboutUsers.LastName LIKE '%" + lastName + "%'";
+                searchRequest += searchPattern;
+                and = true;
+            }
+            if (country != null)
+            {
+                if (and) searchRequest += " and ";
+                var searchPattern = "Locations.Country LIKE '%" + country + "%'";
+                searchRequest += searchPattern;
+                and = true;
+            }
+            if (city != null)
+            {
+                if (and) searchRequest += " and ";
+                var searchPattern = "Locations.City LIKE '%" + city + "%'";
+                searchRequest += searchPattern;
+            }
+
+            List<int> userIds = context.Database.SqlQuery<int>(searchRequest).ToList();
+            List<UserProfile> users = new List<UserProfile>();
+
+            foreach (var item in userIds)
+            {
+                users.Add(GetUser(item));
+            }
+
+            return users;
+        }
+
+        public List<Message> GetMessages(int id, bool io)
+        {
+            List<Message> messages = new List<Message>();
+            UserProfile user = GetUser(id);
+
+            if(io)
+                foreach (var item in user.Senders)
+                {
+                    messages.Add(item);
+                }
+            else
+                foreach (var item in user.Receivers)
+                {
+                    messages.Add(item);
+                }
+
+            return messages;
         }
     }
 }
